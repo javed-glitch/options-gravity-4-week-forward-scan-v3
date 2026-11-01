@@ -87,7 +87,8 @@
   {
    "ccy": "$",
    "feeds": [
-    "cycle"
+    "cycle",
+    "intraday"
    ],
    "group": "Swing-eligible",
    "sym": "GOOGL"
@@ -96,7 +97,8 @@
    "ccy": "$",
    "feeds": [
     "cycle",
-    "options"
+    "options",
+    "intraday"
    ],
    "group": "Watch",
    "sym": "APP"
@@ -104,7 +106,8 @@
   {
    "ccy": "$",
    "feeds": [
-    "cycle"
+    "cycle",
+    "intraday"
    ],
    "group": "Watch",
    "sym": "BE"
