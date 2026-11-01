@@ -9,9 +9,9 @@
   {
    "ccy": "$",
    "feeds": [
-    "pm",
     "cycle",
-    "options"
+    "options",
+    "intraday"
    ],
    "group": "Satellites",
    "sym": "TSLA"
@@ -19,9 +19,9 @@
   {
    "ccy": "$",
    "feeds": [
-    "pm",
     "cycle",
-    "options"
+    "options",
+    "intraday"
    ],
    "group": "Satellites",
    "sym": "PLTR"
@@ -29,9 +29,9 @@
   {
    "ccy": "$",
    "feeds": [
-    "pm",
     "cycle",
-    "options"
+    "options",
+    "intraday"
    ],
    "group": "Satellites",
    "sym": "NVDA"
@@ -39,9 +39,9 @@
   {
    "ccy": "$",
    "feeds": [
-    "pm",
     "cycle",
-    "options"
+    "options",
+    "intraday"
    ],
    "group": "Satellites",
    "sym": "ZETA"
@@ -49,9 +49,9 @@
   {
    "ccy": "$",
    "feeds": [
-    "pm",
     "cycle",
-    "options"
+    "options",
+    "intraday"
    ],
    "group": "Satellites",
    "sym": "AMAT"
@@ -59,7 +59,6 @@
   {
    "ccy": "$",
    "feeds": [
-    "pm",
     "cycle",
     "options"
    ],
@@ -69,7 +68,6 @@
   {
    "ccy": "$",
    "feeds": [
-    "pm",
     "cycle",
     "options"
    ],
@@ -79,9 +77,9 @@
   {
    "ccy": "$",
    "feeds": [
-    "pm",
     "cycle",
-    "options"
+    "options",
+    "intraday"
    ],
    "group": "Swing-eligible",
    "sym": "AVGO"
@@ -89,15 +87,6 @@
   {
    "ccy": "$",
    "feeds": [
-    "pm"
-   ],
-   "group": "Swing-eligible",
-   "sym": "META"
-  },
-  {
-   "ccy": "$",
-   "feeds": [
-    "pm",
     "cycle"
    ],
    "group": "Swing-eligible",
@@ -106,7 +95,6 @@
   {
    "ccy": "$",
    "feeds": [
-    "pm",
     "cycle",
     "options"
    ],
@@ -133,7 +121,6 @@
    "ccy": "\u00a3",
    "etf": true,
    "feeds": [
-    "pm",
     "cycle"
    ],
    "group": "Core",
@@ -144,7 +131,6 @@
    "ccy": "\u00a3",
    "etf": true,
    "feeds": [
-    "pm",
     "cycle"
    ],
    "group": "Core",
@@ -156,7 +142,6 @@
    "ccy": "\u00a3",
    "etf": true,
    "feeds": [
-    "pm",
     "cycle"
    ],
    "group": "Core",
@@ -174,7 +159,17 @@
    "pence": true,
    "sym": "EQQQ",
    "yahoo": "EQQQ.L"
+  },
+  {
+   "ccy": "\u00a3",
+   "etf": true,
+   "feeds": [
+    "cycle"
+   ],
+   "group": "Core",
+   "sym": "SMGB",
+   "yahoo": "SMGB.L"
   }
  ],
- "updated": "2026-10-31"
+ "updated": "2026-11-01"
 }
