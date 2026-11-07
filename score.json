@@ -1,20 +1,35 @@
 {
- "asOf": "2026-10-31 00:54 UTC",
+ "asOf": "2026-11-07 01:00 UTC",
  "latest": {
   "n": 11,
-  "buyTouched": 4,
+  "buyTouched": 11,
   "roundTrip": 0,
   "sameDay": 0,
-  "expiry": "2026-10-30",
+  "expiry": "2026-11-06",
   "roundTripNames": [],
   "buyNames": [
+   "AMAT",
+   "AMD",
    "AVGO",
+   "META",
+   "MU",
    "NVDA",
    "PLTR",
-   "QQQ"
+   "QQQ",
+   "SPY",
+   "TSLA",
+   "ZETA"
   ]
  },
  "weeks": [
+  {
+   "n": 11,
+   "buyTouched": 11,
+   "roundTrip": 0,
+   "sameDay": 0,
+   "expiry": "2026-11-06",
+   "roundTripNames": []
+  },
   {
    "n": 11,
    "buyTouched": 4,
@@ -33,22 +48,22 @@
   }
  ],
  "total": {
-  "n": 16,
-  "buyTouched": 4,
+  "n": 27,
+  "buyTouched": 15,
   "roundTrip": 0,
   "sameDay": 0,
-  "weeks": 2
+  "weeks": 3
  },
  "bySignal": {
   "NEUTRAL": {
-   "n": 15,
-   "buyTouched": 4,
+   "n": 25,
+   "buyTouched": 14,
    "roundTrip": 0,
    "sameDay": 0
   },
   "OPPOSING": {
-   "n": 1,
-   "buyTouched": 0,
+   "n": 2,
+   "buyTouched": 1,
    "roundTrip": 0,
    "sameDay": 0
   }
